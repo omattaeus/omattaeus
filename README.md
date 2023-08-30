@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Mateus Gomes
 
-- 🔭 Hoje eu estudo Ciência da Computação
-- 🌱 Estudando HTML e CSS
+- 🔭 Hoje eu estudo Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando HTML, CSS e C
 - 🤔 Pronouns: ele/dele
 
 
