@@ -1,4 +1,4 @@
-## Olá! Eu sou o Mateus Gomes
+## Olá! Eu sou o Mateus Gomes 😀
 
 - 🔭 Hoje eu estudo Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Javascript, Java, C, HTML e CSS
