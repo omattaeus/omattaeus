@@ -15,9 +15,10 @@
   />
 
 
-[![Mateus top languages](https://github-readme-stats.vercel.app/api?username=omattaeus&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=omattaeus&show_icons=true" />
+[![Mateus top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omattaeus&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  <img
+ src="https://github-readme-stats.vercel.app/api?username=omattaeus&show_icons=true" />
 </picture>
 
 <div style="display: inline_block"><br>
