@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Mateus Gomes 😀
 
 - 🔭 Hoje eu estudo Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Java, Spring Boot e Javascript
+- 🌱 Estudando Java e Spring Boot
 - 🤔 Pronouns: ele/dele
 
 <picture>
