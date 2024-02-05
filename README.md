@@ -1,39 +1,50 @@
-## Olá! Eu sou o Mateus Gomes 😀
+<h1>Hi There, I'm Mateus Duarte <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-- 🔭 Hoje eu estudo Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Java e Spring Boot
-- 🤔 Pronouns: ele/dele
+I'm a **Programming** student. My daily study revolves around building projects and solving exercises in LeetCode. As part of my day, I'm focused on Java and Spring Boot.
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=omattaeus&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=omattaeus&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
+## Skill Set :muscle:
 
+These are some of the main technologies that I use in my studies:
 
+**Programming Languages**
 
-[![Mateus top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omattaeus&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-  <img
- src="https://github-readme-stats.vercel.app/api?username=omattaeus&show_icons=true" />
-</picture>
+<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|
+|--|--|--|
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mateus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Mateus-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img align="center" alt="Mateus-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mateus-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</div>
+**Libraries and Frameworks**
 
-##
+<img title="SpringBoot" alt="SpringBoot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png">|
+|--|
 
-<div> 
-  <a href="https://www.instagram.com/omattaeus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:contatomateusgd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mateusgd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
+**Infrastructure**
+
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|
+|--|
+
+**Databases**
+
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|
+|--|--|
+
+**Tools**
+
+<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|
+|--|
+<br>
+
+## Some of my stats :bar_chart:
+
+<img src="https://github-readme-stats.vercel.app/api?username=omattaeus&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/23270398"><img src="https://github-readme-stackoverflow.vercel.app/?userID=23270398&theme=dark" height="250"></a>
+|--|--|
+
+<br>
+
+## Let's Connect :handshake:
+
+<a href="https://www.linkedin.com/in/mateusgd/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|
+|--
+
+### Here is a random meme for you, to make your day better
+(*PS: Refresh the page to see a new meme* :wink: )
+
+<a href="https://github.com/techytushar/random-memer"><img src='https://web-production-4cea.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
