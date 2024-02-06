@@ -28,8 +28,8 @@ These are some of the main technologies that I use in my studies:
 
 **Tools**
 
-<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|
-|--|
+<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|
+|--|--|
 <br>
 
 ## Some of my stats :bar_chart:
