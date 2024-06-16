@@ -1,4 +1,17 @@
-<h1>Hi There, I'm Mateus Duarte <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center"><b>Hi There, I'm Mateus Duarte</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Magic.+Do+not+touch." alt="Typing SVG" /></a>
+</div>
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<br>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 I'm a **Programming** student. My daily study revolves around building projects and solving exercises in LeetCode. As part of my day, I'm focused on Java and Spring Boot.
 
@@ -32,10 +45,14 @@ These are some of the main technologies that I use in my studies:
 |--|--|--|
 <br>
 
-## Some of my stats :bar_chart:
+<h1 align="center"> Some of my stats :bar_chart: </h1>
+<div align="center">
+  <a href="https://github.com/omattaeus/">
+      <img src="https://github-readme-stats.vercel.app/api?username=omattaeus&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omattaeus&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="omattaeus"/>
+</a>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=omattaeus&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/23270398"><img src="https://github-readme-stackoverflow.vercel.app/?userID=23270398&theme=dark" height="250"></a>
-|--|--|
 
 <br>
 
@@ -47,4 +64,5 @@ These are some of the main technologies that I use in my studies:
 ### Here is a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
 
-<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer-production-8476.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+<a href="https://github.com/techytushar/random-memer"><img src='
+random-memer-production-ab10.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
